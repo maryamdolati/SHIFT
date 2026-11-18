@@ -2,19 +2,7 @@
 
 Only external benchmark data are used. See the [KRNO dataset instructions](https://github.com/srinathdama/ShiftingTime/tree/main/experiments/dataset) and its README. Do not include data in the Git repository.
 
-```text
-data/
-├── irregular/
-│   ├── mimic/{train.npz,val.npz,test.npz,manifest.json}
-│   ├── ushcn/{train.npz,val.npz,test.npz,manifest.json}
-│   └── activity/{train.npz,val.npz,test.npz,manifest.json}
-├── irregular_missing_0.3/seed_0/mujoco/{train.npz,val.npz,test.npz,manifest.json}
-├── crypto/{train.npy,test.npy,weights.npy,assets.json}
-├── trajectory/{train.npy,test.npy}
-├── m4/Train/{Quarterly,Weekly,Daily}-train.csv
-├── m4/Test/{Quarterly,Weekly,Daily}-test.csv
-└── shallow/{shallow_water.npz,manifest.json}
-```
+
 
 ## Irregular time series
 
