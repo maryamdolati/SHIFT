@@ -1,6 +1,6 @@
 # Dataset preparation
 
-Only external benchmark data are used. See the [KRNO dataset instructions](https://github.com/srinathdama/ShiftingTime/tree/main/experiments/dataset) and its README. Do not include data in the Git repository.
+See the [KRNO dataset instructions](https://github.com/srinathdama/ShiftingTime/tree/main/experiments/dataset) and its README. Do not include data in the Git repository.
 
 
 
